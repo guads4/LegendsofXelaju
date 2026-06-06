@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Legends of Xelajú
+  pageTitle: Legends of Xelaju
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
