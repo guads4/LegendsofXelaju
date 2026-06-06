@@ -56,7 +56,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: tokyo-night
+      theme: dracula-official
       mode: both
   - source: github:quartz-community/syntax-highlighting
     enabled: true
