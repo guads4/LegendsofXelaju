@@ -2,7 +2,7 @@
 publish: true
 title: Creation of Humans, Underdwellers and Elves
 created: 2026-06-05T17:55:19.790-06:00
-modified: 2026-06-10T20:40:50.481-06:00
+modified: 2026-06-10T21:21:36.070-06:00
 ---
 
 Before mortals existed as we know it there were only [[Pantheon|the gods]]. After millennia of living in the celestial plane, [[Pantheon|the gods]], in their benevolence, saw fit to use their immense power to create more life. Thirteen [[Pantheon#Creator Gods|creator gods]] began with the creation of the middleworld followed by three rounds of creating intelligent life.
@@ -12,7 +12,7 @@ They began by making what we now know as the middleworld. They made the sun and 
 \[insert duergar image here] They looked at what they had made and saw earth. They first made the under-dwellers; Gnomes, Duergars and the like. The under-dwellers were hard working miners. They trusted in themselves and each other for success. They were a tight knit group, always willing to help another tribe. They made quick work (multiple generations and counting) at creating a life in their tunnels underground. However, because they had each other and spent most of their lives developing tunnels, they had no need or time to worship the gods. ^under-dwellers
 
 > [!quote] "The earth provides"
-> "Popular under-dwellers saying; often said when saying goodbye or hello"
+> Popular under-dwellers saying; often said when saying goodbye or hello
 
 [[Pantheon|The gods]] wished to make life that was more free. Free to roam and learn about the world that the gods created. So the elves were made. The elves live nomadic lives learning what they can about the land they pass through. Most are curious by nature and will study whatever they find, be it rocks, trees, animals, rivers etc. to understand how and why it works. Some elves went to live with the under-dwellers to learn how they lived. They helped to develop new mining techniques and also with trade. These elves became well respected amongst the under-dwellers. When a terrible earthquake threatened to destroy much of what the under-dwellers built, these elves quickly came up with plans to prevent as much loss of life as they could. After much tragedy was avoided, these under-dwelling elves were named Yoktes (after [[Pantheon#Bolon Yokte ('o' as in 'bone' yok-teh) - God of Transitions and Natural Disasters|Bolon Yokte]]; these are the drows of this world) Even now, they continue to develop contingencies for natural disasters. Even with all this progress made, [[Pantheon|the gods]] wanted _**more**_. \[insert elf pic here] ^elves
 
