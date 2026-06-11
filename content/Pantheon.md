@@ -4,10 +4,14 @@ aliases:
   - The Gods
   - the gods
   - The gods
+  - Ajaw
+  - ajaw
 title: Pantheon
 created: 2026-06-05T17:55:19.791-06:00
-modified: 2026-06-06T18:35:38.737-06:00
+modified: 2026-06-10T11:30:41.227-06:00
 ---
+
+The gods live in the upperworld and the underworld and can travel through the middleworld as they please. Often, appearing as humanoid, full animal, or some sort of hybrid. Thirteen creator gods and thirteen jaguar gods keep the three planes in balance, ruling over many other minor gods.
 
 # Creator Gods:
 
@@ -15,9 +19,10 @@ modified: 2026-06-06T18:35:38.737-06:00
 
 -
 
-### Bolon Yokte ('o' as in bone yok-teh)  - God of Transitions and Natural Disasters
+### Bolon Yokte ('o' as in 'bone' yok-teh)  - God of Transitions and Natural Disasters
 
--
+- often has altars at caves and bodies of water
+  - considered liminal/transitional places between the middleworld and the underworld
 
 # Jaguar Gods (Gods of [[Xibalba]]):
 

@@ -1,8 +1,8 @@
 ---
 publish: true
-title: Welcome to Xelajú (Under Construction)
-created: 2026-06-05T19:55:19.791-04:00
-modified: 2026-06-06T13:53:40.255-04:00
+title: A Glimpse into my Dark and Twisted Mind (Under Construction)
+created: 2026-06-05T17:55:19.791-06:00
+modified: 2026-06-10T11:37:48.321-06:00
 socialImage: "[[content/Images/XelaRender.png]]"
 ---
 
