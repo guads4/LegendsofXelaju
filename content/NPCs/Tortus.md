@@ -6,10 +6,10 @@ aliases:
   - Tortus
 title: Tortus
 created: 2026-06-10T21:15:29.201-06:00
-modified: 2026-06-10T21:50:57.352-06:00
+modified: 2026-06-10T22:08:26.545-06:00
 ---
 
-![[Images/BFoIR screenshot.png]]
+![[Images/BFoIR screenshot.png#left|300]]
 
 ```statblock
 layout: Basic 5e Layout
