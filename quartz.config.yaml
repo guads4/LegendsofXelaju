@@ -152,7 +152,7 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
-    Title: Players Lore Book
+    title: Players Lore Book
     layout:
       position: left
       priority: 50
