@@ -4,9 +4,9 @@ aliases:
   - Beloved Father of the Industrial Revolution
   - BFotIR
   - Tortus
-title: Tortus
+title: Tortus (player view)
 created: 2026-06-10T21:15:29.201-06:00
-modified: 2026-06-10T21:18:52.742-06:00
+modified: 2026-06-10T21:32:50.195-06:00
 ---
 
 ![[Images/BFoIR screenshot.png]]
