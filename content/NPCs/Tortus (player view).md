@@ -6,7 +6,7 @@ aliases:
   - Tortus
 title: Tortus (player view)
 created: 2026-06-10T21:15:29.201-06:00
-modified: 2026-06-10T21:42:32.852-06:00
+modified: 2026-06-10T21:44:32.240-06:00
 ---
 
 ![[Images/BFoIR screenshot.png]]
@@ -22,5 +22,3 @@ traits:
   - name: Background
     desc: 
 ```
-
-\`\`
