@@ -1,10 +1,13 @@
 ---
-publish: true
+publish: Draft
 aliases:
   - The Underworld
 title: Xibalba
-created: 2026-06-06T16:52:02.486-06:00
-modified: 2026-06-10T20:42:35.768-06:00
+created: 2026-06-06T18:52:02.486-04:00
+modified: 2026-06-15T17:12:17.090-04:00
+published: 2026-06-15T17:12:17.090-04:00
+Type: Location
+Campaign: Xelaju
 ---
 
 - The underworld

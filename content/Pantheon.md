@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - The Gods
   - the gods
@@ -7,8 +7,10 @@ aliases:
   - Ajaw
   - ajaw
 title: Pantheon
-created: 2026-06-05T17:55:19.791-06:00
-modified: 2026-06-10T11:30:41.227-06:00
+created: 2026-06-05T19:55:19.791-04:00
+modified: 2026-06-13T14:25:41.723-04:00
+published: 2026-06-13T14:25:41.723-04:00
+tags:
 ---
 
 The gods live in the upperworld and the underworld and can travel through the middleworld as they please. Often, appearing as humanoid, full animal, or some sort of hybrid. Thirteen creator gods and thirteen jaguar gods keep the three planes in balance, ruling over many other minor gods.
@@ -30,6 +32,8 @@ The gods live in the upperworld and the underworld and can travel through the mi
 
 - hun means "one", came means "death"
 - oversees the [[Xibalba|The Underworld]]
+
+### Baalham - Protector of people and communities
 
 # Minor Gods:
 
