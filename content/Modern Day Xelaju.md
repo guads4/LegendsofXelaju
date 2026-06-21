@@ -1,10 +1,12 @@
 ---
-publish: true
+publish: Draft
+title: Modern Day Xelaju
+created: 2026-06-10T15:13:19.094-04:00
+modified: 2026-06-21T17:36:08.938-04:00
+published: 2026-06-21T17:36:08.938-04:00
+Campaign: Xelaju
 aliases:
-  - The Industrial Revolution
-title: The Industrial Revolution
-created: 2026-06-10T13:13:19.094-06:00
-modified: 2026-06-10T20:03:18.687-06:00
+tags:
 ---
 
 Nothing to see here.... yet....

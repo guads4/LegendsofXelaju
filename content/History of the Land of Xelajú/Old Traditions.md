@@ -2,8 +2,9 @@
 publish: Draft
 title: Old Traditions
 created: 2026-06-10T15:31:51.687-04:00
-modified: 2026-06-10T15:56:05.863-04:00
-published: 2026-06-10T15:56:05.863-04:00
+modified: 2026-06-21T17:37:15.786-04:00
+published: 2026-06-21T17:37:15.786-04:00
+Campaign: Xelaju
 aliases:
 tags:
 ---
