@@ -2,15 +2,15 @@
 publish: Draft
 title: Creation of Humans, Underdwellers and Elves
 created: 2026-06-05T19:55:19.790-04:00
-modified: 2026-06-21T17:08:31.077-04:00
-published: 2026-06-21T17:08:31.077-04:00
+modified: 2026-06-25T12:06:42.301-04:00
+published: 2026-06-25T12:06:42.301-04:00
 ---
 
 Before mortals existed as we know it there were only [[Pantheon|the gods]]. After millennia of living in the celestial plane, [[Pantheon|the gods]], in their benevolence, saw fit to use their immense power to create more life. Thirteen [[Pantheon#Creator Gods|creator gods]] began with the creation of the middleworld followed by three rounds of creating intelligent life.
 
 They began by making what we now know as the middleworld. They made the sun and the moons. The earth and the seas. All existing in perfect balance. They then created animals to take care of the middleworld. However, they still wished for more. They wished for intelligent life to enjoy all that they have created.
 
-![[Images/deep-gnomeXela.webp|325]] They looked at what they had made, and saw earth. They first made the under-dwellers; Gnomes, dwarves and the like. The under-dwellers were hard working miners. They trusted in themselves and each other for success. They were a tight knit group, always willing to help another tribe. They made "quick" work (multiple generations and counting) at creating a life in their tunnels underground. However, because they had each other and spent most of their lives developing tunnels, they had no need or time to worship the gods. ^under-dwellers
+![[Images/deep-gnomeXela.webp|right]] They looked at what they had made, and saw earth. They first made the under-dwellers; Gnomes, dwarves and the like. The under-dwellers were hard working miners. They trusted in themselves and each other for success. They were a tight knit group, always willing to help another tribe. They made "quick" work (multiple generations and counting) at creating a life in their tunnels underground. However, because they had each other and spent most of their lives developing tunnels, they had no need or time to worship the gods. ^under-dwellers
 
 > [!quote] "The earth provides"
 > Popular under-dwellers saying; often said when saying goodbye or hello
