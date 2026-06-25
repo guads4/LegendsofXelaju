@@ -6,8 +6,8 @@ aliases:
   - Birthplace of the Industrial Revolution
 title: Xelajú City
 created: 2026-06-06T18:45:35.386-04:00
-modified: 2026-06-21T17:28:34.236-04:00
-published: 2026-06-21T17:28:34.236-04:00
+modified: 2026-06-25T12:17:36.555-04:00
+published: 2026-06-25T12:17:36.555-04:00
 Type: Location
 Campaign: Xelaju
 ---
