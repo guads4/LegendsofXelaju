@@ -8,12 +8,12 @@ aliases:
   - ajaw
 title: Pantheon
 created: 2026-06-05T19:55:19.791-04:00
-modified: 2026-06-27T09:21:07.883-04:00
-published: 2026-06-27T09:21:07.883-04:00
+modified: 2026-06-27T11:39:36.183-04:00
+published: 2026-06-27T11:39:36.183-04:00
 tags:
 ---
 
-The gods live in the upperworld and the underworld and can travel through the middleworld as they please. Often, appearing as humanoid, full animal, or some sort of hybrid. Thirteen creator gods and thirteen jaguar gods keep the three planes in balance, ruling over many other minor gods.
+The gods live in the upperworld and the underworld and can travel through Cab (Earth/middleworld) as they please. Often, appearing as humanoid, full animal, or some sort of hybrid. Thirteen creator gods and thirteen jaguar gods keep the three planes in balance, ruling over many other minor gods.
 
 # Creator Gods:
 

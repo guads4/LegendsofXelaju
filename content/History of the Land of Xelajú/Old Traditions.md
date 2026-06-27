@@ -2,8 +2,8 @@
 publish: Draft
 title: Old Traditions
 created: 2026-06-10T15:31:51.687-04:00
-modified: 2026-06-21T17:37:15.786-04:00
-published: 2026-06-21T17:37:15.786-04:00
+modified: 2026-06-27T11:35:22.863-04:00
+published: 2026-06-27T11:35:22.863-04:00
 Campaign: Xelaju
 aliases:
 tags:
@@ -22,4 +22,4 @@ tags:
         - many people (generally poorer) are considering "new adult" as ~18-20 as they enter the work force sooner than rich people
           - rich people can go to school or travel
             - school is not ridiculously expensive, but you can either go to school or work
-              - ## going to school part time is frowned upon
+              - going to school part time is frowned upon
