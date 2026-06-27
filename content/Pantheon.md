@@ -8,8 +8,8 @@ aliases:
   - ajaw
 title: Pantheon
 created: 2026-06-05T19:55:19.791-04:00
-modified: 2026-06-13T14:25:41.723-04:00
-published: 2026-06-13T14:25:41.723-04:00
+modified: 2026-06-27T09:21:07.883-04:00
+published: 2026-06-27T09:21:07.883-04:00
 tags:
 ---
 
@@ -21,10 +21,9 @@ The gods live in the upperworld and the underworld and can travel through the mi
 
 -
 
-### Bolon Yokte ('o' as in 'bone' yok-teh)  - God of Transitions and Natural Disasters
+### Hun-Ixim (hoon iks-eem) - God of Maize
 
-- often has altars at caves and bodies of water
-  - considered liminal/transitional places between the middleworld and the underworld
+-
 
 # Jaguar Gods (Gods of [[Xibalba]]):
 
@@ -35,6 +34,15 @@ The gods live in the upperworld and the underworld and can travel through the mi
 
 ### Baalham - Protector of people and communities
 
+- kdfjdl
+
+### Bolon Yokte ('o' as in 'bone' yok-teh)  - God of Transitions and Natural Disasters
+
+- often has altars at caves and bodies of water
+  - considered liminal/transitional places between the middleworld and the underworld
+
 # Minor Gods:
 
-### Hun-Ixim (hoon iks-eem) - God of Maize
+### Acat - God of Tattoos
+
+-
