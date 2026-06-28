@@ -1,9 +1,9 @@
 ---
 publish: "true"
-title: A Glimpse into my Dark and Twisted Mind (Under Construction)
+title: Legends of Xelajú (Under Construction)
 created: 2026-06-05T19:55:19.791-04:00
-modified: 2026-06-28T15:45:32.834-04:00
-published: 2026-06-28T15:45:32.834-04:00
+modified: 2026-06-28T18:21:08.710-04:00
+published: 2026-06-28T18:21:08.710-04:00
 socialImage: "[[content/Images/XelaRender.png]]"
 banner: Xelajú/Player Access/Images/XelaRender.png
 banner_y: "21.5"

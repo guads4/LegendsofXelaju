@@ -6,8 +6,8 @@ aliases:
   - Tortus
 title: Tortus
 created: 2026-06-10T23:15:29.201-04:00
-modified: 2026-06-27T14:08:07.739-04:00
-published: 2026-06-27T14:08:07.739-04:00
+modified: 2026-06-28T15:52:47.485-04:00
+published: 2026-06-28T15:52:47.485-04:00
 Pronouns: He/Him
 Status: Alive
 Campaign: Xelaju
