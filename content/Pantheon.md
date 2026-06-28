@@ -8,8 +8,8 @@ aliases:
   - ajaw
 title: Pantheon
 created: 2026-06-05T19:55:19.791-04:00
-modified: 2026-06-27T11:39:36.183-04:00
-published: 2026-06-27T11:39:36.183-04:00
+modified: 2026-06-28T12:40:04.219-04:00
+published: 2026-06-28T12:40:04.219-04:00
 tags:
 ---
 
@@ -25,9 +25,9 @@ The gods live in the upperworld and the underworld and can travel through Cab (E
 
 -
 
-# Jaguar Gods (Gods of [[Xibalba]]):
+# Jaguar Gods (Gods of Xibalba):
 
-### Hun-Came (hoon ka-me) - Lord of [[Xibalba]]
+### Hun-Came (hoon ka-me) - Lord of Xibalba
 
 - hun means "one", came means "death"
 - oversees the [[Xibalba|The Underworld]]
