@@ -276,7 +276,7 @@ plugins:
     enabled: true
     order: 50
     options:
-      theme: everforest-enchanted
+      theme: dracula-for-obsidian
 layout:
   groups:
     toolbar:
