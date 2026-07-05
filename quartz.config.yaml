@@ -276,7 +276,7 @@ plugins:
     enabled: true
     order: 50
     options:
-      theme: exotic
+      theme: garden-gnome-adwaita-gtk
 layout:
   groups:
     toolbar:
