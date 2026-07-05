@@ -276,7 +276,7 @@ plugins:
     enabled: true
     order: 50
     options:
-      theme: fancy-a-story
+      theme: obsidian-windows-98-edition
 layout:
   groups:
     toolbar:
