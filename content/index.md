@@ -1,9 +1,9 @@
 ---
 publish: "true"
-title: Legends of Xelajú (Under Construction)
+title: Legends of Xelajú
 created: 2026-06-05T19:55:19.791-04:00
-modified: 2026-07-05T17:17:19.809-04:00
-published: 2026-07-05T17:17:19.809-04:00
+modified: 2026-07-05T17:22:18.747-04:00
+published: 2026-07-05T17:22:18.747-04:00
 socialImage: "[[content/Images/XelaRender.png]]"
 banner: Xelajú/Player Access/Images/XelaRender.png
 banner_y: "21.5"
