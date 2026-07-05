@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Legends of Xelajú
+  pageTitle: Legends of Xelaju
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -276,7 +276,7 @@ plugins:
     enabled: true
     order: 50
     options:
-      theme: origami.dracula
+      theme: ouroboros
 layout:
   groups:
     toolbar:
