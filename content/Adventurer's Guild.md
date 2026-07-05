@@ -2,8 +2,8 @@
 publish: Draft
 title: Adventurer's Guild
 created: 2026-06-10T21:57:47.208-04:00
-modified: 2026-07-05T16:17:06.376-04:00
-published: 2026-07-05T16:17:06.376-04:00
+modified: 2026-07-05T17:04:37.049-04:00
+published: 2026-07-05T17:04:37.049-04:00
 Campaign: Xelaju
 aliases:
 tags:
@@ -12,7 +12,7 @@ tags:
 # Joining the Guild:
 
 - Any experience level welcome!
-- Adventuring academy in [[Xelajú]] is open to new adventurers
+- Adventuring academy in [[Xelajú City|Xelajú]] is open to new adventurers
   - Top 5 students are automatically accepted into the guild
 - More experienced outsiders can also apply directly to the guild
   - Best to have a letter of recommendation
@@ -24,6 +24,6 @@ tags:
 # Notable People:
 
 - Guild-master
-  - No longer goes on big missions, but does try to help around upper [[Xelajú]]
+  - No longer goes on big missions, but does try to help around upper [[Xelajú City|Xelajú]]
 - Research Liaison
   - Works closely with [[Tortus]] to properly equip the guild and develop new tools
