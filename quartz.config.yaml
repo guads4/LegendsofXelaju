@@ -276,7 +276,7 @@ plugins:
     enabled: true
     order: 50
     options:
-      theme: papyrus-nox
+      theme: sad-machine-druid
 layout:
   groups:
     toolbar:
