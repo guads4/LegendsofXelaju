@@ -2,8 +2,8 @@
 publish: "true"
 title: Legends of Xelajú (Under Construction)
 created: 2026-06-05T19:55:19.791-04:00
-modified: 2026-07-05T16:06:37.833-04:00
-published: 2026-07-05T16:06:37.833-04:00
+modified: 2026-07-05T17:17:19.809-04:00
+published: 2026-07-05T17:17:19.809-04:00
 socialImage: "[[content/Images/XelaRender.png]]"
 banner: Xelajú/Player Access/Images/XelaRender.png
 banner_y: "21.5"
@@ -21,6 +21,14 @@ _i_ is like the double _e_ in “see” or “bee.”\
 _o_ is like the _o_ in “hello” or “open.”\
 _u_ is like the double _o_ in “zoo” or “boo.”\
 _a_ is like the final _e_ in “title” or “handle.”
-_x_ is pronounced as _sh_. eg Xibalba = She ball bah
+_x_ is pronounced as _sh_. eg Xibalba = She-ball-bah
+
+Suggested Reading:
+
+- [[Creation of Humans, Under-dwellers and Elves]]
+- [[Myths, Legends and Old Traditions]]
+- [[Modern Day Xelaju]]
+- [[Xelajú City]]
+- [[Pantheon|Pantheon]]
 
 ![[Images/english.png#right|337]]
