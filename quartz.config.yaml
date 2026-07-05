@@ -152,8 +152,7 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
-    options:
-      title: Players lore book
+    title: Players Lore Book
     layout:
       position: left
       priority: 50
@@ -268,8 +267,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: aura
-      variation: ttrpg-dnd
+      theme: its-theme.ttrpg-dnd
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
