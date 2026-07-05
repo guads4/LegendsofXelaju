@@ -2,8 +2,8 @@
 publish: Draft
 title: Myths, Legends and Old Traditions
 created: 2026-06-10T15:31:51.687-04:00
-modified: 2026-07-05T11:56:08.063-04:00
-published: 2026-07-05T11:56:08.063-04:00
+modified: 2026-07-05T16:16:53.067-04:00
+published: 2026-07-05T16:16:53.067-04:00
 Campaign: Xelaju
 aliases:
 tags:
@@ -21,7 +21,7 @@ tags:
 
 ## The Legend of the Hero Twins
 
-> [!important] Ball is Life
+> [!important] Ball is Life (and death)
 
 One day, [[Pantheon#Hun-Came (hoon ka-me) - Lord of Xibalba|Hun-Came]] and [[Pantheon#Vucub-Came - God of Suffering|Vucub-Came]] invited renowned Pok Ta Pok (ballgame) players, Hun-Hunahpu and Vucub-Hunahpu, to Xibalba to play ball. They passed through the many horrors of Xibalba without harm. Once they arrived at the court of the Lords of Xibalba, all of the Xibalbans laughed until their insides hurt and their chests became cramped from their laughter. The Jaguar Gods offered the brothers a seat but it was nothing but a very hot stone. They were tricked and harmed and ultimately decapitated. Hun-Hunahpu's head was hung from a fruit tree. [[Pantheon#Ixquic - Goddess of the Waning Moon|Ixquic]], who had travelled to Cab during this time, passed by and caressed the head of Hun-Hunahpu.
 

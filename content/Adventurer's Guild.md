@@ -2,8 +2,8 @@
 publish: Draft
 title: Adventurer's Guild
 created: 2026-06-10T21:57:47.208-04:00
-modified: 2026-07-05T10:43:20.104-04:00
-published: 2026-07-05T10:43:20.104-04:00
+modified: 2026-07-05T16:17:06.376-04:00
+published: 2026-07-05T16:17:06.376-04:00
 Campaign: Xelaju
 aliases:
 tags:
@@ -24,6 +24,6 @@ tags:
 # Notable People:
 
 - Guild-master
-  - no longer goes on big missions, but does try to help around upper [[Xelajú]]
+  - No longer goes on big missions, but does try to help around upper [[Xelajú]]
 - Research Liaison
   - Works closely with [[Tortus]] to properly equip the guild and develop new tools
