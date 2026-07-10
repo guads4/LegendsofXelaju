@@ -8,8 +8,8 @@ aliases:
   - the queen
 title: Ajavinel Chichu' Yohl
 created: 2026-06-10T23:27:18.790-04:00
-modified: 2026-07-05T11:58:18.889-04:00
-published: 2026-07-05T11:58:18.889-04:00
+modified: 2026-07-10T18:39:03.539-04:00
+published: 2026-07-10T18:39:03.539-04:00
 Campaign: Xelaju
 Pronouns: She/Her
 Status: Alive
