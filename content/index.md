@@ -2,8 +2,8 @@
 publish: "true"
 title: Legends of Xelajú
 created: 2026-06-05T19:55:19.791-04:00
-modified: 2026-07-05T17:23:06.345-04:00
-published: 2026-07-05T17:23:06.345-04:00
+modified: 2026-07-10T18:32:00.875-04:00
+published: 2026-07-10T18:32:00.875-04:00
 socialImage: "[[content/Images/XelaRender.png]]"
 banner: Xelajú/Player Access/Images/XelaRender.png
 banner_y: "21.5"
@@ -23,7 +23,7 @@ _u_ is like the double _o_ in “zoo” or “boo.”\
 _a_ is like the final _e_ in “title” or “handle.”
 _x_ is pronounced as _sh_. eg Xibalba = She-ball-bah
 
-#### Suggested Reading:
+#### Useful Links:
 
 - [[Modern Day Xelaju]]
 - [[Creation of Humans, Under-dwellers and Elves]]

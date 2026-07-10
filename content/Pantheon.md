@@ -8,8 +8,8 @@ aliases:
   - ajaw
 title: Pantheon
 created: 2026-06-05T19:55:19.791-04:00
-modified: 2026-07-05T11:06:41.540-04:00
-published: 2026-07-05T11:06:41.540-04:00
+modified: 2026-07-10T18:32:34.557-04:00
+published: 2026-07-10T18:32:34.557-04:00
 tags:
 ---
 
@@ -17,7 +17,7 @@ The gods live in the upperworld and the underworld, and can travel through Cab (
 
 # Creator Gods:
 
-### Ixzamna (iks-ahm-nah) - God of Wisdom and Life
+### Ixzamna - God of Wisdom and Life
 
 - Ruler of all other gods
 - Patron of astrology and medicine
@@ -67,7 +67,7 @@ The gods live in the upperworld and the underworld, and can travel through Cab (
 
 - Name means youngest thunderbolt
 
-### Hun-Ixim (hoon iks-eem) - God of Maize
+### Hun-Ixim - God of Maize
 
 ### Nohocacyum - God of Justice
 
@@ -76,7 +76,7 @@ The gods live in the upperworld and the underworld, and can travel through Cab (
 
 # Jaguar Gods (Gods of Xibalba):
 
-### Hun-Came (hoon ka-me) - Lord of Xibalba
+### Hun-Came - Lord of Xibalba
 
 - Hun means "one", came means "death"
 - Oversees the [[Xibalba|The Underworld]]
