@@ -1,9 +1,9 @@
 ---
 publish: Draft
-title: <% tp.file.title %>
+title: Timeline
 created: 2026-07-11T15:23:26.246-04:00
-modified: 2026-07-11T15:45:26.965-04:00
-published: 2026-07-11T15:45:26.965-04:00
+modified: 2026-07-11T15:48:17.490-04:00
+published: 2026-07-11T15:48:17.490-04:00
 Campaign: Xelaju
 Type: Timeline
 aliases:
