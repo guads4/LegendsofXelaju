@@ -2,8 +2,8 @@
 publish: "true"
 title: Legends of Xelajú
 created: 2026-06-05T19:55:19.791-04:00
-modified: 2026-07-10T18:43:49.920-04:00
-published: 2026-07-10T18:43:49.920-04:00
+modified: 2026-07-11T15:47:59.409-04:00
+published: 2026-07-11T15:47:59.409-04:00
 socialImage: "[[content/Images/XelaRender.png]]"
 banner: Xelajú/Player Access/Images/XelaRender.png
 banner_y: "21.5"
@@ -14,7 +14,7 @@ image: "[[content/Images/XelaRender.png]]"
 
 Welcome one and all to the land of Xelajú! In these pages you'll find information that most folks in this world would know or have at least heard of.
 
-Mayan languages use five or six vowels. Using the Spanish convention, these vowels are pronounced as follows:
+Mayan languages use five vowels. Using the Spanish convention, these vowels are pronounced as follows:
 _a_ is like the _a_ in “far” or “father.”\
 _e_ is like the _e_ in “obey” or “prey.”\
 _i_ is like the double _e_ in “see” or “bee.”\
