@@ -2,10 +2,10 @@
 publish: Draft
 title: Xelajú Timeline
 created: 2026-07-11T10:51:33.783-04:00
-modified: 2026-07-11T14:47:45.259-04:00
-published: 2026-07-11T14:47:45.259-04:00
-fc-date: yyyy-mm-dd
-fc-end: yyyy-mm-dd
+modified: 2026-07-11T15:34:38.702-04:00
+published: 2026-07-11T15:34:38.702-04:00
+fc-date: 0001-01-01
+fc-end: 4485-09-15
 timelines:
   - timeline_name
 tl-title: History of Xelajú
