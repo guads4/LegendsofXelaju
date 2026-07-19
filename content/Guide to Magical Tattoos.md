@@ -2,8 +2,8 @@
 publish: "true"
 title: Guide to Magical Tattoos
 created: 2026-06-27T09:18:01.211-04:00
-modified: 2026-06-27T09:26:38.792-04:00
-published: 2026-06-27T09:26:38.792-04:00
+modified: 2026-07-19T14:43:47.497-04:00
+published: 2026-07-19T14:43:47.497-04:00
 tags:
   - magical-tattoos
 Campaign: Xelaju

@@ -2,8 +2,8 @@
 publish: Draft
 title: Myths, Legends and Old Traditions
 created: 2026-06-10T15:31:51.687-04:00
-modified: 2026-07-10T18:35:03.023-04:00
-published: 2026-07-10T18:35:03.023-04:00
+modified: 2026-07-19T14:40:48.233-04:00
+published: 2026-07-19T14:40:48.233-04:00
 Campaign: Xelaju
 aliases:
 tags:

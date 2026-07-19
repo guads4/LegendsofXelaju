@@ -2,8 +2,8 @@
 publish: Draft
 title: Creation of Humans, Underdwellers and Elves
 created: 2026-06-05T19:55:19.790-04:00
-modified: 2026-07-10T18:33:46.165-04:00
-published: 2026-07-10T18:33:46.165-04:00
+modified: 2026-07-19T14:40:24.454-04:00
+published: 2026-07-19T14:40:24.454-04:00
 ---
 
 Before mortals existed as we know it there were only [[Pantheon|the gods]]. After millennia of living in the celestial plane, [[Pantheon|the gods]], in their benevolence, saw fit to use their immense power to create more life. Thirteen [[Pantheon#Creator Gods|creator gods]] began with the creation of Cab followed by three rounds of creating intelligent life.

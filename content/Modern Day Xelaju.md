@@ -2,8 +2,8 @@
 publish: Draft
 title: Modern Day Xelaju
 created: 2026-06-10T15:13:19.094-04:00
-modified: 2026-07-10T18:35:48.824-04:00
-published: 2026-07-10T18:35:48.824-04:00
+modified: 2026-07-19T14:44:05.064-04:00
+published: 2026-07-19T14:44:05.064-04:00
 Campaign: Xelaju
 aliases:
 tags:

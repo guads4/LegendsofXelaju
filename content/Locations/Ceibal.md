@@ -2,8 +2,8 @@
 publish: Draft
 title: Ceibal
 created: 2026-06-27T10:55:18.103-04:00
-modified: 2026-06-27T11:15:23.717-04:00
-published: 2026-06-27T11:15:23.717-04:00
+modified: 2026-07-19T14:41:00.981-04:00
+published: 2026-07-19T14:41:00.981-04:00
 Type: Location
 Campaign: Xelaju
 aliases:

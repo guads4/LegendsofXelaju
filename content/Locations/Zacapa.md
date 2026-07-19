@@ -11,4 +11,4 @@ aliases:
 
 Under Construction
 
-- Patron god is [[Pantheon#Acan - God of Intoxication and Wine|Acan]]
+- Patron god is [[Xelajú/Player_Access/Pantheon#Acan - God of Intoxication and Wine|Acan]]
