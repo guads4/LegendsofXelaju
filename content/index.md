@@ -2,8 +2,8 @@
 publish: "true"
 title: Legends of Xelajú
 created: 2026-06-05T19:55:19.791-04:00
-modified: 2026-07-19T14:51:59.512-04:00
-published: 2026-07-19T14:51:59.512-04:00
+modified: 2026-07-19T14:54:13.240-04:00
+published: 2026-07-19T14:54:13.240-04:00
 socialImage: "[[content/Images/XelaRender.png]]"
 banner: Xelajú/Player Access/Images/XelaRender.png
 banner_y: "21.5"
@@ -16,7 +16,7 @@ image: "[[content/Images/XelaRender.png]]"
 
 Welcome one and all to the land of Xelajú! In these pages you'll find information that most folks in this world would know or have at least heard of.
 
-# Reading Convention
+# Reading Conventions:
 
 Mayan languages use five vowels. Using the Spanish convention, these vowels are pronounced as follows:
 _a_ is like the _a_ in “far” or “father.”\
@@ -26,7 +26,7 @@ _o_ is like the _o_ in “hello” or “open.”\
 _u_ is like the double _o_ in “zoo” or “boo.”\
 _x_ is pronounced as _sh_. eg Xibalba = She-ball-bah
 
-# Telenovela Tropes
+# Telenovela Tropes:
 
 I am hoping to give this a telenovela/soap opera vibe so please feel free to sprinkle any common tropes into your characters! Some examples below:
 
