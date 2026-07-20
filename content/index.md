@@ -2,8 +2,8 @@
 publish: "true"
 title: Legends of Xelajú
 created: 2026-06-05T19:55:19.791-04:00
-modified: 2026-07-19T14:54:13.240-04:00
-published: 2026-07-19T14:54:13.240-04:00
+modified: 2026-07-20T10:42:35.921-04:00
+published: 2026-07-20T10:42:35.921-04:00
 socialImage: "[[content/Images/XelaRender.png]]"
 banner: Xelajú/Player Access/Images/XelaRender.png
 banner_y: "21.5"
@@ -47,7 +47,7 @@ I am hoping to give this a telenovela/soap opera vibe so please feel free to spr
 - Medical drama 
   - coma reveals, rare disease scares, swapped hospital records
 
-#### Useful Links:
+# Useful Links:
 
 - [[Modern Day Xelaju]]
 - [[Creation of Humans, Under-dwellers and Elves]]
